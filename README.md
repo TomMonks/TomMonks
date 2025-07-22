@@ -37,7 +37,14 @@ I am an academic researcher and software engineer with a passion for improving h
 
 I've also been working hard to increase my skills in AI particularly around Autonomous Agents to interact with data science tools and Large Language Models for coding and reasoning.
 
-👉 I believe that data science can make a huge difference to health services and patient outcomes. [For example, my work in stroke care led to four times as many patients being treated in half the time.](https://www.sciencedirect.com/science/article/pii/S2211692314200348)
+## Impact of my work
+
+👉 I believe that data science can make a huge difference to health services and patient outcomes. For example, 
+
+* [my work in hyper-acute stroke care led to four times as many patients being treated in half the time.](https://www.sciencedirect.com/science/article/pii/S2211692314200348)
+* [my work in using simulation to reduce deplayed transfers of care saves the NHS an estimated £3.2m per year](https://www.tandfonline.com/doi/full/10.1080/17477778.2019.1664264#abstract) 💰💰💰
+* [during the early stage of Covid-19 pandemic I worked with colleagues to support the NHS make rapid decisions in order to maintain treatment of vulerable patients with renal failure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237628)
+
 
 ## GitHub Organisations
 
