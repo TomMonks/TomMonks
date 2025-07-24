@@ -26,6 +26,10 @@
 <a href="https://www.pythonhealthdatascience.com" target="_blank">
   <img src="https://img.shields.io/badge/Book-pythonhealthdatascience.com-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Online Book Badge"/>
 </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Main Language: Python Badge"/>
+</a>
+
 
 </p>
 
