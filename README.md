@@ -75,10 +75,11 @@ If you are interested in learning about reproducible AI and data science you can
 
 ## 🔑 Skills
 
+- **Linux**:a full time user since 2016 🐧
 - **Programming:** Python (since 2007 ⏳), R (proficient, but use less)
 - **Simulation Modeling:** Discrete-Event Simulation (DES), agent-based modeling
-- **Reproducible Workflows:** Research compendia, analytical pipelines (RAP), computational reproducibility
-- **Machine Learning:** AI agent frameworks, large language models (LLMs), model selection
+- **Reproducible Workflows:** Research compendia, reproducible analytical pipelines
+- **Machine Learning:** AI agent frameworks (beginner), large language models
 - **Open Science Practices:** Code and data sharing, documentation, reproducibility assessments
 - **Collaboration & Leadership:** PI on multi-disciplinary, multi-institutional projects
 
