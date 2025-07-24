@@ -45,6 +45,11 @@ I've also been working hard to increase my skills in AI particularly around Auto
 * [my work in using simulation to reduce deplayed transfers of care saves the NHS an estimated £3.2m per year](https://www.tandfonline.com/doi/full/10.1080/17477778.2019.1664264#abstract) 💰💰💰
 * [during the early stage of Covid-19 pandemic I worked with colleagues to support the NHS make rapid decisions in order to maintain treatment of vulerable patients with renal failure](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237628)
 
+👉 I believe that open and reproducible health data science leads to less research waste and better patient outcomes: 
+
+* [my work developing reporting guidelines for simulation has helped 100's of authors improve the document their simulation studies](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0DFB5iYAAAAJ&citation_for_view=0DFB5iYAAAAJ:bEWYMUwI8FkC)
+* [I'm actively working to support simulation researchers adopt Free and Open Source Software and build reusable model](https://github.com/pythonhealthdatascience)
+
 
 ## GitHub Organisations
 
