@@ -79,7 +79,7 @@ If you are interested in learning about reproducible AI and data science you can
 
 ## 🌱 Currently Learning
 
-- FastMCP and LangGraph to setup agentic workflows using external tools.
+- vLLM, instructor, and pydantic and LangChain to setup agentic workflows using external tools.
 
 ## 🔑 Skills
 
